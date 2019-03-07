@@ -1,5 +1,5 @@
 {
-  "name": "fis-qt-ftp",
+  "name": "fis3-deploy-qt-ftp",
   "version": "1.0.0",
   "description": "this plugin is qiantu fis3 ftp",
   "main": "index.js",
